@@ -13,7 +13,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/TheGuardian18/Aplicaciones-Distribuidas-2025/tree/main # ruta del repositorio git
+          uri: https://github.com/TheGuardian18/DAD-Avance.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
   security:
